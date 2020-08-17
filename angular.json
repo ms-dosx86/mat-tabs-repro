@@ -24,7 +24,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/jspanel4/dist/jspanel.css"
             ],
             "scripts": []
           },

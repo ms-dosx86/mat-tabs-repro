@@ -1,0 +1,9 @@
+$widget-header-background: var(--background-accent-color);
+$widget-options-background: var(--background-accent-color);
+$widget-options-fa-color: var(--common-settings-widget-option-color, var(--background-contrast-color));
+$widget-border: 1px solid var(--border-color);
+
+$header-button-color: var(--background-accent-color);
+$header-button-border-color: var(--common-settings-widget-special-button-border-color, var(--background-accent-color));
+$header-button-border-radius: var(--common-settings-border-radius, 4px);
+$header-button-height: 18px;
